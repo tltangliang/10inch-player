@@ -10,6 +10,6 @@ A 20inch HiFi music player with 7.84 touchscreen
 
 ![20inch HiFi Player](./image/03.jpg ':size=500x')
 
-![20inch HiFi Player](./image/04.jpg ':size=500x')
+![20inch HiFi Player](./image/04.png ':size=500x')
 
 ![20inch HiFi Player](./image/05.jpg ':size=500x')
