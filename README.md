@@ -6,7 +6,7 @@ A 10 inch width HiFi music player with 7.84 touchscreen.
 
 - Simple and clear design
 - Easy to use
-- Hi-RES DSD support
+- Hi-Res DSD support
 - AirPlay and Bluetooth support
 - Low cost
 - Low power use
