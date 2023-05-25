@@ -67,7 +67,7 @@ For Volumio, I think RPi 3B+ is more suitable because it is much cheaper, has su
 
 ### wisdPi HiFi DAC 
 
-Purchase Link: [https://store.wisdpi.com/products/wisdpi-hifi-dac-raspberry-pi-pcm5122-audio-3-5-rca-gold-plated-power-noise-reduction-external-power](https://store.wisdpi.com/products/wisdpi-hifi-dac-raspberry-pi-pcm5122-audio-3-5-rca-gold-plated-power-noise-reduction-external-power)
+Purchase Link: [https://www.amazon.com/wisdPi-Raspberry-PCM5122-Reduction-External/dp/B0C3CMCM7V/ref=sr_1_10?keywords=hifi+dac+hat&qid=1684993494&sr=8-10](https://www.amazon.com/wisdPi-Raspberry-PCM5122-Reduction-External/dp/B0C3CMCM7V/ref=sr_1_10?keywords=hifi+dac+hat&qid=1684993494&sr=8-10)
 
 There are many HiFi DACs, but I choose the one from wisdPi.
 
