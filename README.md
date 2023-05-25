@@ -2,12 +2,21 @@
 
 A 10 inch width HiFi music player with 7.84 touchscreen.
 
+## Features
+
+- Simple and clear design
+- Easy to use
+- AirPlay and Bluetooth support
+- Low cost
+- Low power use
+
 ## Introduction
 
 I have an old set of Denon speakers that can only play CDs and tapes, which is outdated. This has inspired me to come up with an idea. 
 
 I plan to use Volumio as a digital playback system and hope that the appearance is as good-looking as possible, while keeping the cost low.
 
+Volumio support AirPlay and Bluetooth. That's perfect. Alternatively, I can use piCorePlayer or Moode Audio Player instead.
 
 This is the effect of placing the DIY finished product next to the Denon speaker. It looks pretty durable, doesn't it?
 
