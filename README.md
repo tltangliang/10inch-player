@@ -1,4 +1,4 @@
-10inch-player
+# 10inch-player
 
 A 10 inch width HiFi music player with 7.84 touchscreen.
 
