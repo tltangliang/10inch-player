@@ -15,19 +15,34 @@ This is the effect of placing the DIY finished product next to the Denon speaker
 
 ## System Description
 
-### Case
+![10inch HiFi Player](./image/system.png ':size=400x')
+
+## Rendering
+
+![10inch HiFi Player](./image/rendering/10inch-player.49.jpeg ':size=400x')
+
+![10inch HiFi Player](./image/rendering/10inch-player.50.jpeg ':size=400x')
+
+![10inch HiFi Player](./image/rendering/10inch-player.51.jpeg ':size=400x')
+
+![10inch HiFi Player](./image/rendering/10inch-player.52.jpeg ':size=400x')
+
+![10inch HiFi Player](./image/rendering/10inch-player.53.jpeg ':size=400x')
+
+![10inch HiFi Player](./image/rendering/10inch-player.54.jpeg ':size=400x')
+
+## Case
 
 The 10inch-Player case is made up of three materials: aluminum profile, acrylic, and 3D printed parts, along with some screws and foot pads.
 
 ![10inch HiFi Player](./image/03.jpg ':size=400x')
 
-
-
-### Exploded-view
+## Exploded-view
 
 ![10inch HiFi Player](./image/01.jpg ':size=400x')
 
-### 7.84 Touchscreen
+
+## 7.84 Touchscreen
 
 Purchase Link: [https://store.wisdpi.com/products/7-84inch-ips-long-strip-capacitive-touch-screen-lcd-400-1280-hdmi-ips-toughened-glass-cover-support-raspberry-pi](https://store.wisdpi.com/products/7-84inch-ips-long-strip-capacitive-touch-screen-lcd-400-1280-hdmi-ips-toughened-glass-cover-support-raspberry-pi)
 
@@ -39,18 +54,18 @@ The 7.84-inch touch screen is glued to the 3D-printed bracket and then slid into
 
 
 
-### Internal circuit board
+## Internal circuit board
 
 ![10inch HiFi Player](./image/02.jpg ':size=400x')
 
-#### HDMI to MIPI board
+### HDMI to MIPI board
 
 This is the driver board for 7.84 LCD. It's a part of 7.84 Touchscreen.
 
-#### Raspberry Pi 3B+
+### Raspberry Pi 3B+
 For Volumio, I think RPi 3B+ is more suitable because it is much cheaper, has sufficient performance, and supports Bluetooth and 5G Wifi.
 
-#### wisdPi HiFi DAC 
+### wisdPi HiFi DAC 
 
 Purchase Link: [https://store.wisdpi.com/products/wisdpi-hifi-dac-raspberry-pi-pcm5122-audio-3-5-rca-gold-plated-power-noise-reduction-external-power](https://store.wisdpi.com/products/wisdpi-hifi-dac-raspberry-pi-pcm5122-audio-3-5-rca-gold-plated-power-noise-reduction-external-power)
 
@@ -60,7 +75,7 @@ This HAT has an active power noise reduction function, and I can use a cheaper p
 
 Also it has an external power interface, next I will try to use a low power linear power supply to power the dac alone, which is cheaper than using a linear power supply to power the whole system. Also I can try to power the DAC directly with a battery.
 
-#### Sumolink Erhu RP2040
+### Sumolink Erhu RP2040
 
 Purchase Link: [https://www.temu.com/sumolink-erhu-rp2040-pico-like-mcu-board-based-on-raspberry-pi-rp2040-chip-dual-core-arm-cortex-m0-processor-up-to-133-mhz-onboard-4mb-flash-usb-c-connector-g-601099517031753.html?top_gallery_url=https%3A%2F%2Fimg.kwcdn.com%2Fproduct%2FFancyalgo%2FVirtualModelMatting%2Ffb122f40434d42b9870f1c81445c1aa4.jpg&spec_gallery_id=25186241&refer_page_sn=10009&refer_source=0&freesia_scene=2&_oak_freesia_scene=2&search_key=rp2040&_x_sessn_id=ddb5whl7cr&refer_page_name=search_result&refer_page_id=10009_1684988061682_d35x5b6wwm](https://www.temu.com/sumolink-erhu-rp2040-pico-like-mcu-board-based-on-raspberry-pi-rp2040-chip-dual-core-arm-cortex-m0-processor-up-to-133-mhz-onboard-4mb-flash-usb-c-connector-g-601099517031753.html?top_gallery_url=https%3A%2F%2Fimg.kwcdn.com%2Fproduct%2FFancyalgo%2FVirtualModelMatting%2Ffb122f40434d42b9870f1c81445c1aa4.jpg&spec_gallery_id=25186241&refer_page_sn=10009&refer_source=0&freesia_scene=2&_oak_freesia_scene=2&search_key=rp2040&_x_sessn_id=ddb5whl7cr&refer_page_name=search_result&refer_page_id=10009_1684988061682_d35x5b6wwm)
 
