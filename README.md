@@ -99,9 +99,9 @@ Just because the price, I choose Sumolink Erhu RP2040, you can use any rp2040 mc
 ![10inch HiFi Player](./image/06.jpg ':size=400x')
 
 
-# Support my work
+# Buy me a coffee
 
-If you find my projects helpful or interesting, please consider supporting me on Patreon. Your support will help me continue creating new and innovative projects, as well as provide exclusive access to my content.
+If you find my projects helpful or interesting, could you buy me a coffee. Your support will help me continue creating new and innovative projects, as well as provide exclusive access to my content.
 
 
-[![Support me on Patreon](https://img.shields.io/badge/support%20me%20on-patreon-orange.svg)](https://www.patreon.com/Rex310)
+[![Buy Me A Coffee](https://cdn.buymeacoffee.com/buttons/lato-black.png ':size=50x')](https://www.buymeacoffee.com/tltangliang)
