@@ -97,3 +97,11 @@ I used the rp2040 instead of the Raspberry Pi gpio because it was difficult for 
 Just because the price, I choose Sumolink Erhu RP2040, you can use any rp2040 mcu board as the same.
 
 ![10inch HiFi Player](./image/06.jpg ':size=400x')
+
+
+# Support my work
+
+If you find my projects helpful or interesting, please consider supporting me on Patreon. Your support will help me continue creating new and innovative projects, as well as provide exclusive access to my content.
+
+
+[![Support me on Patreon](https://img.shields.io/badge/support%20me%20on-patreon-orange.svg)](https://www.patreon.com/Rex310)
