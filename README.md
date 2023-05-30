@@ -24,6 +24,12 @@ This is the effect of placing the DIY finished product next to the Denon speaker
 
 ![10inch HiFi Player](./image/07.jpg ':size=400x')
 
+![10inch HiFi Player](./image/08.jpg ':size=400x')
+
+![10inch HiFi Player](./image/09.jpg ':size=400x')
+
+![10inch HiFi Player](./image/10.jpg ':size=400x')
+
 ## System Description
 
 ![10inch HiFi Player](./image/system.png ':size=400x')
